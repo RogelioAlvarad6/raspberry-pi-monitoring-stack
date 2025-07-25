@@ -2,15 +2,15 @@
 
 Glances is a cross-platform system monitoring tool written in Python. It provides real-time stats for:
 
-CPU
+--> CPU
 
-Memory
+--> Memory
 
-Disk
+--> Disk
 
-Network
+--> Network
 
-Sensors
+--> Sensors
 
 🔧 Installation via Docker
 
@@ -25,7 +25,7 @@ Sensors
     environment:
       - GLANCES_OPT=-w
 
-🌐 Access
+🌐 For Access
 
 Visit:
 
